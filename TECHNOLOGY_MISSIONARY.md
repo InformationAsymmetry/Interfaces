@@ -1,3 +1,10 @@
+## Emojis
+* 💻: what the world wants, the world gets
+* 🩰: if enough people believe it, it's true
+* 👔: slow changing living things 
+* 🌈: information transfer ♦️
+* 🎉: GitHub / API
+
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | DOJ |  |
