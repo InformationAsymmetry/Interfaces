@@ -8,7 +8,7 @@
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | DOJ |  |
-| 1 | Self-Similiarizing Systems (Quantization / Evangelism) |  | +👔?+.. - }...+ |
+| 1 | Self-Similiarizing Systems (Quantization / Evangelism) |  | `swa` |
 | 2 | Social Vectors |  |  |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DPW | 👔 |
 | 4 | Extreme Information Asymmetry Data |  | { (🩰) } |
