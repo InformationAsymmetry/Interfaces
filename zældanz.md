@@ -8,7 +8,7 @@
 ## Table
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Genisis{"daughters"} | ⭐ | Ge Hong{Bo Ye Qing, Fu Fang Qing, Ling Yang Qing, Qing Yang Niu Bo Dai}  | 🏆 |
+| 0 | Lamentations | ⭐ | Ge Hong{Bo Ye Qing, Fu Fang Qing, Ling Yang Qing, Qing Yang Niu Bo Dai}  | 🏆 |
 | 1 | Genisis{"Lot: pilar of salt" | ⭐?? | Zang Sanfang | 🏆 |
 | 2 | Exodus | ⭐?+ | Zhu Xi | ...🏆 | 
 | 3 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
