@@ -13,8 +13,8 @@
 | 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
 | 3 | Wang Chong | 🌙+ | Daniel | 🖥️ |
 | 4 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
-| 5 | Leviticus | 🟨 | Lao Tzu | 🌙 |
+| 5 | Leviticus | 🟨 | John | 🌙 |
 | 6 | Zang Sanfang | 🌙 | Job | ⭐ |
 | 7 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
 | 8 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
-| 9 | Ge Hong | 🟨🟨 | Joshua | 🖥️ |
+| 9 | Exodus | ⭐ | Ge Hong | 🏆 |
