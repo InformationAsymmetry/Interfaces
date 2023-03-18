@@ -8,14 +8,14 @@
 ## Table
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Xuanxue | ⭐?+ | Isaiah | ...🏆 | 
-| 1 | Exodus | ⭐ | Ge Hong | 🏆 |
-| 2 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
-| 3 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
-| 4 | Wang Chong | 🌙+ | Daniel | 🖥️ |
-| 5 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
-| 6 | Leviticus | 🟨 | John | 🌙 |
-| 7 | Zang Sanfang | 🌙 | Job | ⭐ |
-| 8 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
+| 0 | Genisis | ⭐ | Ge Hong | 🏆 |
+| 1 | Genisis | ⭐?? | Zang Sanfang | 🏆 |
+| 2 | Exodus | ⭐?+ | Zhu Xi | ...🏆 | 
+| 3 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
+| 4 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
+| 5 | Wang Chong | 🌙+ | Daniel | 🖥️ |
+| 6 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
+| 7 | Leviticus | 🟨 | John | 🌙 |
+| 8 | Xuanxue | 🌙 | Job | ⭐ |
 | 9 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
 
