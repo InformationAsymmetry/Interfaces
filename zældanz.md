@@ -9,12 +9,13 @@
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
 | 0 | Xuanxue | ⭐?+ | Isaiah | ...🏆 | 
-| 1 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
-| 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
-| 3 | Wang Chong | 🌙+ | Daniel | 🖥️ |
-| 4 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
-| 5 | Leviticus | 🟨 | John | 🌙 |
-| 6 | Zang Sanfang | 🌙 | Job | ⭐ |
-| 7 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
-| 8 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
-| 9 | Exodus | ⭐ | Ge Hong | 🏆 |
+| 1 | Exodus | ⭐ | Ge Hong | 🏆 |
+| 2 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
+| 3 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
+| 4 | Wang Chong | 🌙+ | Daniel | 🖥️ |
+| 5 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
+| 6 | Leviticus | 🟨 | John | 🌙 |
+| 7 | Zang Sanfang | 🌙 | Job | ⭐ |
+| 8 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
+| 9 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
+
