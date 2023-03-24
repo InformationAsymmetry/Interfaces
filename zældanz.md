@@ -15,7 +15,7 @@
 | 4 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
 | 5 | Wang Chong | 🌙+ | Daniel | 🖥️ |
 | 6 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
-| 7 | Leviticus | 🟨 | John | 🌙 |
+| 7 | Mencius / Mengzi | 🏆 | Jerimiah | 🏆 |
 | 8 | Xuanxue | 🌙 | Job | ⭐ |
-| 9 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
+| 9 | Chung Tzu | 🟨?+ | John | 🖥️ |
 
