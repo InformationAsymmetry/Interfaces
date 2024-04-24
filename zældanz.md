@@ -19,3 +19,9 @@
 | 8 | Xuanxue | 🌙 | Job | ⭐ |
 | 9 | Chung Tzu | 🟨?+ | John | 🖥️ |
 
+---
+
+# Media Used for comparison
+* The Art of Exploitation, 2nd Edition (Emojis) and other new media books
+* Jason Gregory (Eastern) along with Wikipedia and other various Youtube sources
+* Bible Project (Western) along with Wikipedia
